@@ -1,0 +1,26 @@
+D:\HomeWork\Project_10_BaiDoXe\App\BaiDoXe\BaiDoXe\bin\Debug\BaiDoXe.exe.config
+D:\HomeWork\Project_10_BaiDoXe\App\BaiDoXe\BaiDoXe\bin\Debug\BaiDoXe.exe
+D:\HomeWork\Project_10_BaiDoXe\App\BaiDoXe\BaiDoXe\bin\Debug\BaiDoXe.pdb
+D:\HomeWork\Project_10_BaiDoXe\App\BaiDoXe\BaiDoXe\obj\Debug\BaiDoXe.csprojAssemblyReference.cache
+D:\HomeWork\Project_10_BaiDoXe\App\BaiDoXe\BaiDoXe\obj\Debug\BaiDoXe.Form1.resources
+D:\HomeWork\Project_10_BaiDoXe\App\BaiDoXe\BaiDoXe\obj\Debug\BaiDoXe.Properties.Resources.resources
+D:\HomeWork\Project_10_BaiDoXe\App\BaiDoXe\BaiDoXe\obj\Debug\BaiDoXe.csproj.GenerateResource.cache
+D:\HomeWork\Project_10_BaiDoXe\App\BaiDoXe\BaiDoXe\obj\Debug\BaiDoXe.csproj.CoreCompileInputs.cache
+D:\HomeWork\Project_10_BaiDoXe\App\BaiDoXe\BaiDoXe\obj\Debug\BaiDoXe.exe
+D:\HomeWork\Project_10_BaiDoXe\App\BaiDoXe\BaiDoXe\obj\Debug\BaiDoXe.pdb
+C:\Users\Xuan Tuan\Downloads\BaiDoXe\BaiDoXe\bin\Debug\BaiDoXe.exe.config
+C:\Users\Xuan Tuan\Downloads\BaiDoXe\BaiDoXe\bin\Debug\BaiDoXe.exe
+C:\Users\Xuan Tuan\Downloads\BaiDoXe\BaiDoXe\bin\Debug\BaiDoXe.pdb
+C:\Users\Xuan Tuan\Downloads\BaiDoXe\BaiDoXe\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Xuan Tuan\Downloads\BaiDoXe\BaiDoXe\bin\Debug\AForge.Video.dll
+C:\Users\Xuan Tuan\Downloads\BaiDoXe\BaiDoXe\bin\Debug\AForge.dll
+C:\Users\Xuan Tuan\Downloads\BaiDoXe\BaiDoXe\bin\Debug\AForge.Video.xml
+C:\Users\Xuan Tuan\Downloads\BaiDoXe\BaiDoXe\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Xuan Tuan\Downloads\BaiDoXe\BaiDoXe\bin\Debug\AForge.xml
+C:\Users\Xuan Tuan\Downloads\BaiDoXe\BaiDoXe\obj\Debug\BaiDoXe.csprojAssemblyReference.cache
+C:\Users\Xuan Tuan\Downloads\BaiDoXe\BaiDoXe\obj\Debug\BaiDoXe.Form1.resources
+C:\Users\Xuan Tuan\Downloads\BaiDoXe\BaiDoXe\obj\Debug\BaiDoXe.Properties.Resources.resources
+C:\Users\Xuan Tuan\Downloads\BaiDoXe\BaiDoXe\obj\Debug\BaiDoXe.csproj.GenerateResource.cache
+C:\Users\Xuan Tuan\Downloads\BaiDoXe\BaiDoXe\obj\Debug\BaiDoXe.csproj.CopyComplete
+C:\Users\Xuan Tuan\Downloads\BaiDoXe\BaiDoXe\obj\Debug\BaiDoXe.exe
+C:\Users\Xuan Tuan\Downloads\BaiDoXe\BaiDoXe\obj\Debug\BaiDoXe.pdb
